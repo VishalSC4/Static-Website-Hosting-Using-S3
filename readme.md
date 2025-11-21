@@ -33,9 +33,12 @@ User → DNS (GoDaddy) → CloudFront CDN → S3 Bucket → Static Website
 ![CloudFront](images/CF2.png)
 
 #### S3 Bucket Objects  
-![S3](images/s31.png)
-![S3](images/s32.png)
-![S3](images/s33.png)
+![S3](images/s31.png) ,
+
+![S3](images/s32.png) ,
+
+![S3](images/s33.png) ,
+
 ![S3](images/s34.png)
 
 
@@ -172,4 +175,3 @@ By integrating S3, CloudFront, and GoDaddy, you gain global content delivery wit
 
 
 
-[def]: images/CF1.png
