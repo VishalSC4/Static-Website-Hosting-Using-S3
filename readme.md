@@ -38,6 +38,9 @@ User → DNS (GoDaddy) → CloudFront CDN → S3 Bucket → Static Website
 ![S3](images/S33.png)
 ![S3](images/S34.png)
 
+#### Final Hosted Website 
+![Hosted_Site](images/result.png)
+
 
 ## 📄 index.html File
 
@@ -128,8 +131,6 @@ Below is the complete code used for hosting the static website:
 
 
 
-#### Final Hosted Website  
-![Hosted Site](images/result.png)
 
 ---
 
