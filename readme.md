@@ -33,13 +33,10 @@ User → DNS (GoDaddy) → CloudFront CDN → S3 Bucket → Static Website
 ![CloudFront](images/CF2.png)
 
 #### S3 Bucket Objects  
-![S3](images/s31.png) ,
-
-![S3](images/s32.png) ,
-
-![S3](images/s33.png) ,
-
-![S3](images/s34.png)
+![S3](images/S31.png)
+![S3](images/S32.png)
+![S3](images/S33.png)
+![S3](images/S34.png)
 
 
 ## 📄 index.html File
