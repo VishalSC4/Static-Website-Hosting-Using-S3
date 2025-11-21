@@ -136,7 +136,7 @@ scalable, and cost-efficient static hosting setup**.
 ## 📝 Summary
 
 This project showcases scalable static website hosting using AWS
-services.
+services(S3,CloudFront) and optionally map it to a custom domain from GoDaddy..
 
 ### ✨ Author
 
